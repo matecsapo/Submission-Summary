@@ -1,11 +1,11 @@
 #Set up Reddit API Access
 import praw
 reddit = praw.Reddit(
-    client_id = "zfUybHJUxmGCAbgmhFzxXw",
-    client_secret = "6TG5GlpR6alXFW5cMJu4BaMzde_PdA",
+    client_id = "xxx",
+    client_secret = "xxx",
     user_agent = "Submission Summary by Football_Forecast",
-    username = "Football_Forecast",
-    password = "leledoba22"
+    username = "xxx",
+    password = "xxx"
 )
 
 #Import BERT Extraction Summarizer
